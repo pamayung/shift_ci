@@ -1,0 +1,24 @@
+#kiri{
+	background-color : #3b5998;
+	color : #ffffff;
+}
+.text-logo{
+	color : #ffffff;
+	background-color: transparent;
+	text-align: center;
+	font-size: 25px;
+}
+.fa-caret-down{
+	background-color : transparent;
+	color : white;
+}
+.fa-caret-down:hover{
+	color : white;
+	background-color : transparent;
+}
+.lupa{
+	color: #ffffff;
+	background-color: transparent;
+	text-align: center;
+	text-decoration: underline;
+}
